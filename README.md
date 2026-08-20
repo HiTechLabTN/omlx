@@ -1,3 +1,8 @@
+# omlx — HiTech Lab Edition
+
+Maintained and optimized by [HiTech Lab](https://github.com/HiTechLabTN/omlx)
+Source: https://github.com/jundot/omlx
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="docs/images/icon-rounded-dark.svg" width="140">
